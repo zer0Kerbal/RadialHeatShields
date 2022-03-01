@@ -85,6 +85,7 @@ parts, flags, agency
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
+
 <details>
   <summary>Credits and Special Thanks</summary>
   <ul>
