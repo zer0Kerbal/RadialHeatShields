@@ -13,15 +13,27 @@ updated: 23 Feb 2022 -->
 
 # Radial Heat Shields (RHS)
 
-Tired of blowing up? Use Radial Heat Shields by Orion Space Industries. by Orion Space Industries.
+Tired Of Spaceplanes Exploding On Reentry?
 
+Try Not Doing That!
 
+Not Doing That is easy: simply don't do it! Use our patented radial heat shields!
 
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`Clifton Marien aka CliftonM`][LINK:cliftonm]
 
 <div style="text-align:center"></br><img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HeroLogo_1920x1920.png" alt="Just Another Way to Return Home Today" width="50%" height="50%"></br></br>
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot38.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot40.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-2.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-3.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-5.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
+
+### Partial Parts Invoice:
+
+* Circular
+* Square
+* Tile
+* Angular
+* Long
+* Probe (yes, a very, Very, VERY heat resistant probe core)
+* Popup (yes, it really does "pop-up" and even "pop-down"
 
 ### Help Wanted
 >
