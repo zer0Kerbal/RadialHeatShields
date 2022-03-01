@@ -1,0 +1,19 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/*",
+        "docs/LegalMumboJumbo/*",
+        "GameData/CliftonM/RadialHeatShields/Parts/@thumbs/*",
+        "GameData/CliftonM/RadialHeatShields/Assets/*",
+        "GameData/CliftonM/RadialHeatShields/Agents/*",
+        "GameData/CliftonM/RadialHeatShields/Flags/*",
+        "source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agents/**",
+        "**/@Thumbs/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
