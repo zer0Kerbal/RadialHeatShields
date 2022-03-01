@@ -119,11 +119,11 @@ parts, flags, agency
 
 #### Original (0) - Author: [`Clifton Marien aka CliftonM`][LINK:cliftonm]
 
-> [Thread][MOD:org:thread]  - Download: [Dropbox][MOD:org:download] - Source: [Dropbox][MOD:org:source]
+> [Thread][MOD:org:thread]  - Download: [Internet Archive][MOD:org:download] - Source: [GitHub][MOD:org:source]
 > License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-* "RadialHeatShields Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-* "Radial Heat Shields Forum Thread"
 [MOD:chlog]: https://github.com/zer0Kerbal/RadialHeatShields/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/RadialHeatShields/discussions "Discussions"
@@ -140,9 +140,9 @@ parts, flags, agency
 [CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/code.json
 
 <!--- original mod stuff -->
-[MOD:org:source]: https://www.dropbox.com/s/85og3xdhark7com/RadialHeatShields5.rar?dl=0 "Dropbox"
+[MOD:org:source]: https://github.com/clintmm/RadialHeatShields "GitHub"
 [MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-* "KSP Forum"
-[MOD:org:download]: https://web.archive.org/web/20151124110306/https://kerbalstuff.com/mod/1040/Radial%20Heat%20Shields "Wayback Machine"
+[MOD:org:download]: https://archive.org/download/RadialHeatShields-0.9.1.4/EC1C07F2-RadialHeatShields-0.9.1.4.zip "Wayback Machine"
 
 [LIC:org:url]: https://creativecommons.org/licenses/zero/1.0/ "CC0"
 [LIC:org:log]: https://licensebuttons.net/i/p/cc-zero/transparent/33/66/99/76x22.png "CC0"
