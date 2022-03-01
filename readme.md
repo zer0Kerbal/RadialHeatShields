@@ -119,7 +119,7 @@ parts, flags, agency
 
 #### Original (0) - Author: [`Clifton Marien aka CliftonM`][LINK:cliftonm]
 
-> [Thread][MOD:org:thread]  - Download: [Internet Archive][MOD:org:download] - Source: [GitHub][MOD:org:source]
+> [Thread][MOD:org:thread]  - Download: [Internet Archive][MOD:org:download] - Source: [GitHub][MOD:org:source]  
 > License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
 
 <!-- mod links -->
