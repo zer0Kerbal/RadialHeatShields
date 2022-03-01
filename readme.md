@@ -84,7 +84,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports
 
 * [On Demand Fuel Cells (ODFC)][thread:ODFC] [^2]  
-* [TweakScale][thread:tw]
+* [TweakScale][thread:ts]
 
 #### Tags
 
