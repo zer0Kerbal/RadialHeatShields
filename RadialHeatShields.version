@@ -37,6 +37,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME"      : "RadialHeatShields",
-		"DIRECTORY" : "CliftonM/RadialHeatShields"
+		"DIRECTORY" : "OrionSpaceIndustries/RadialHeatShields"
 	}
 }
