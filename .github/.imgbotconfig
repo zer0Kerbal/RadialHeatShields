@@ -11,7 +11,11 @@
         "**/Assets/**",
         "**/Flags/**",
         "**/Agents/**",
-        "**/@Thumbs/**"
+        "**/Textures/**",
+        "**/UI/**",
+        "**/PluginData/**",
+        "**/Icons/**",
+        "**/@thumbs/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
