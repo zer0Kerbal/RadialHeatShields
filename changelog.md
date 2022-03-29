@@ -1,4 +1,12 @@
 # Changelog  
+<!-- changelog.md v1.1.1.1
+Radial Heat Shields (RHS)
+created: 01 Aug 2016
+updated: 05 Mar 2022
+
+——————————————————————————————————————————————————
+——— changelog ————————————————————————————————————
+—————————————————————————————————————————————————— -->
   
 | modName    | Radial Heat Shields (RHS)                                        |
 | ---------- | ---------------------------------------------------------------- |
@@ -9,13 +17,7 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RadialHeatShields)   |
 | spacedock  | (https://spacedock.info/mod/2988)                                |
 | ckan       | RadialHeatShields                                                |
-<!-- 
-changelog.md v1.1.1.1
-modname
-created: 01 Aug 2016
-updated: 05 Mar 2022
 
-——————————————————————————————————————————————————
-——— changelog ————————————————————————————————————
-——————————————————————————————————————————————————
--->
+## Version 1.0.99.0 - for KSP 1.12.3 [28-Mar-2022]
+
+* #23 - Hawai'ian(??lelo P?k?) &lt;ha.cfg&gt;
