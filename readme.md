@@ -1,13 +1,15 @@
-<!-- readme.md v1.6.5.7
-RadialHeatShields (RHS)
+<!-- readme.md v1.6.6.1
+Radial Heat Shields (RHS)
 created: 01 Oct 2019
-updated: 23 Feb 2022 -->
+updated: 22 Mar 2022 -->
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
-[![RadialHeatShields][MOD:shd:]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Radial Heat Shields][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+
+[![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
 
 
@@ -25,7 +27,7 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot38.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot40.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-2.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-3.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-5.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
 
-### Partial Parts Invoice:
+### Partial Parts Invoice
 
 * Circular
 * Square
@@ -38,7 +40,8 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 ### Help Wanted
 >
 > * Variant Textures always welcome!
-> * Have a request? Glad to have them, kindly submit through GitHub.
+> * Model updates to Unity 2019
+> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
 
@@ -79,14 +82,14 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
 
 ### Supports
 
-* [On Demand Fuel Cells (ODFC)][thread:ODFC] [^2]  
-* [TweakScale][thread:ts]
+* [On Demand Fuel Cells (ODFC)][ODFC] [^2]  
+* [TweakScale][ts]
 
-#### Tags
+### Tags
 
 parts, flags, agency
 
@@ -97,20 +100,16 @@ parts, flags, agency
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
+### Credits and Special Thanks
 
-<details>
-  <summary>Credits and Special Thanks</summary>
-  <ul>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">Clifton Marien aka CliftonM</a> for creating this mod </li>
-	</ul>
-</details>
+* [Clifton Marien aka CliftonM][cliftonm] for creating this glorious add-on!
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
 #### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
-> License: [![License][LIC:shd]][LIC:url] ![][LIC:log]
+> Forum: [Thread][MOD:forum] - Download: [Wayback Machine][MOD:0:download] - Source: [GitHub][GITHUB:url]  
+> License: [![License][LIC:shd]][LIC:url] ![License Logo][LIC:log]
 >
 > ##### Disclaimer(s)
 >
@@ -119,39 +118,39 @@ parts, flags, agency
 
 #### Original (0) - Author: [`Clifton Marien aka CliftonM`][cliftonm]
 
-> [Thread][MOD:org:thread]  - Download: [Internet Archive][MOD:org:download] - Source: [GitHub][MOD:org:source]  
-> License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
+> [Thread][MOD:0:thread] - Download: [Internet Archive][MOD:0:download] - Source: [GitHub][MOD:0:source]  
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License Logo][LIC:0:log]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-* "Radial Heat Shields Forum Thread"
+[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/Attribution.md "Attribution"
 [MOD:chlog]: https://github.com/zer0Kerbal/RadialHeatShields/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/RadialHeatShields/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/ "Radial Heat Shields Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/RadialHeatShields/wiki/Known-Issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/RadialHeatShields/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/RadialHeatShields/blob/master/LICENSE "Github License"
 [MOD:local]: https://github.com/zer0Kerbal/RadialHeatShields/blob/master/GameData/RadialHeatShields/Localization/readme.md "Localization"
 [MOD:pages]: https://zer0kerbal.github.io/RadialHeatShields/ "GitHub Pages"
-[MOD:wiki]: https://github.com/zer0Kerbal/RadialHeatShields/ "Wiki"
+[MOD:wiki]: https://zer0kerbal.github.io/RadialHeatShields/ "Wiki"
 
 <!--- mod -->
-[MOD:shd:]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/mod.json
-
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/code.json
+[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/mod.json
+[MOD:pages:shd]: https://github.com/zer0Kerbal/RadialHeatShields/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
 <!--- original mod stuff -->
-[MOD:org:source]: https://github.com/clintmm/RadialHeatShields "GitHub"
-[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-* "KSP Forum"
-[MOD:org:download]: https://archive.org/download/RadialHeatShields-0.9.1.4/EC1C07F2-RadialHeatShields-0.9.1.4.zip "Wayback Machine"
+[MOD:0:source]: https://github.com/clintmm/RadialHeatShields "GitHub"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-*/ "KSP Forum"
+[MOD:0:download]: https://archive.org/download/RadialHeatShields-0.9.1.4/EC1C07F2-RadialHeatShields-0.9.1.4.zip "Wayback Machine"
 
-[LIC:org:url]: https://creativecommons.org/licenses/zero/1.0/ "CC0"
-[LIC:org:log]: https://licensebuttons.net/i/p/cc-zero/transparent/33/66/99/76x22.png "CC0"
-[LIC:org:shd]: https://img.shields.io/badge/License-CC0%20-EF9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC0"
+[LIC:0:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 4.0"
 
 <!--- license -->
-[LIC:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/license.json "CC BY-SA 3.0"
+[LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/license.json "CC BY-SA 4.0"
 
 <!--- AVC -->
 [AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
@@ -160,7 +159,7 @@ parts, flags, agency
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-RadialHeatShields-white.svg?labelColor=E32811&style=plastic "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/ckan.json "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/RadialHeatShields "Curseforge"
@@ -177,10 +176,11 @@ parts, flags, agency
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->  
-[thread:mm]: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:ts]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
-[thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
+
+[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[ts]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 
 <!-- static links-->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
@@ -191,7 +191,7 @@ parts, flags, agency
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
@@ -200,14 +200,13 @@ parts, flags, agency
 [IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 [cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"
