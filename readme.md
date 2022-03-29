@@ -19,7 +19,7 @@ Try Not Doing That!
 
 Not Doing That is easy: simply don't do it! Use our patented radial heat shields!
 
-## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`Clifton Marien aka CliftonM`][LINK:cliftonm]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`Clifton Marien aka CliftonM`][cliftonm]
 
 <div style="text-align:center"></br><img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HeroLogo_1920x1920.png" alt="Just Another Way to Return Home Today" width="50%" height="50%"></br></br>
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot38.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot40.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
@@ -42,16 +42,16 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 
 ---
 
-### Localization - _work in progress_
+### Localization
 
-> * [ ] ![][EN] English - in progress
-> * [ ]  ***your translation here***
+> * ![English][EN] English
+> * ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
 
@@ -107,7 +107,7 @@ parts, flags, agency
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
-#### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal]
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![][LIC:log]
@@ -117,7 +117,7 @@ parts, flags, agency
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-#### Original (0) - Author: [`Clifton Marien aka CliftonM`][LINK:cliftonm]
+#### Original (0) - Author: [`Clifton Marien aka CliftonM`][cliftonm]
 
 > [Thread][MOD:org:thread]  - Download: [Internet Archive][MOD:org:download] - Source: [GitHub][MOD:org:source]  
 > License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
@@ -209,8 +209,8 @@ parts, flags, agency
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:cliftonm]: https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"
 
 <!-- footnotes -->
 [^1]: ***may*** work on other versions (YMMV)

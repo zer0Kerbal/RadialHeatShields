@@ -1,6 +1,10 @@
 ---
 permalink: /License.html
 title: License
+description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
+# layout: bare
+tags: license,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
+---
 ---
 
 <!-- License.md v1.0.0.0
@@ -8,7 +12,7 @@ Radial Heat Shields (RHS)
 created: 01 Feb 2022
 updated: 20 Feb 2022 -->
 
-[Home](https://zer0kerbal.github.io/RadialHeatShields)
+[Home](/index.md)
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fab fa-github"></i>
