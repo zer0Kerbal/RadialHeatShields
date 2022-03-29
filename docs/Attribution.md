@@ -54,9 +54,9 @@ updated: 27 Mar 2022
 
 [RHS]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/ "Radial Heat Shields"
 
-[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"
+[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"  
 <!-- [cliftonm]: https://forum.kerbalspaceprogram.com/index.php?/profile/140061-*/ "CliftonM aka Clifton Marien" -->
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"  
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
