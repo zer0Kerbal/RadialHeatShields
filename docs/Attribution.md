@@ -7,7 +7,7 @@ title: Attributions
 Attributions.md v1.0.1.0
 RadialHeatShields (RHS)
 created: 01 Feb 2022
-updated: 01 Feb 2022
+updated: 27 Mar 2022
 -->
 
 [Home](https://zer0kerbal.github.io/RadialHeatShields)
