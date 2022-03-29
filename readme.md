@@ -25,7 +25,7 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot38.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot40.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-2.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-3.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-5.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
 
-### Partial Parts Invoice:
+### Partial Parts Invoice
 
 * Circular
 * Square
@@ -110,7 +110,7 @@ parts, flags, agency
 #### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
-> License: [![License][LIC:shd]][LIC:url] ![][LIC:log]
+> License: [![License][LIC:shd]][LIC:url] ![License Logo][LIC:log]
 >
 > ##### Disclaimer(s)
 >
@@ -119,11 +119,11 @@ parts, flags, agency
 
 #### Original (0) - Author: [`Clifton Marien aka CliftonM`][cliftonm]
 
-> [Thread][MOD:org:thread]  - Download: [Internet Archive][MOD:org:download] - Source: [GitHub][MOD:org:source]  
-> License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
+> [Thread][MOD:0:thread] - Download: [Internet Archive][MOD:0:download] - Source: [GitHub][MOD:0:source]  
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License Logo][LIC:0:log]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-* "Radial Heat Shields Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/ "Radial Heat Shields Forum Thread"
 [MOD:chlog]: https://github.com/zer0Kerbal/RadialHeatShields/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/RadialHeatShields/discussions "Discussions"
@@ -140,13 +140,13 @@ parts, flags, agency
 [CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/code.json
 
 <!--- original mod stuff -->
-[MOD:org:source]: https://github.com/clintmm/RadialHeatShields "GitHub"
-[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-* "KSP Forum"
-[MOD:org:download]: https://archive.org/download/RadialHeatShields-0.9.1.4/EC1C07F2-RadialHeatShields-0.9.1.4.zip "Wayback Machine"
+[MOD:0:source]: https://github.com/clintmm/RadialHeatShields "GitHub"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-* "KSP Forum"
+[MOD:0:download]: https://archive.org/download/RadialHeatShields-0.9.1.4/EC1C07F2-RadialHeatShields-0.9.1.4.zip "Wayback Machine"
 
-[LIC:org:url]: https://creativecommons.org/licenses/zero/1.0/ "CC0"
-[LIC:org:log]: https://licensebuttons.net/i/p/cc-zero/transparent/33/66/99/76x22.png "CC0"
-[LIC:org:shd]: https://img.shields.io/badge/License-CC0%20-EF9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC0"
+[LIC:0:url]: https://creativecommons.org/licenses/zero/1.0/ "CC0"
+[LIC:0:log]: https://licensebuttons.net/i/p/cc-zero/transparent/33/66/99/76x22.png "CC0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC0%20-EF9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC0"
 
 <!--- license -->
 [LIC:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
