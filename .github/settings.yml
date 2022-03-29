@@ -15,7 +15,7 @@ repository:
   description: "Tired of blowing up? Tired Of Spaceplanes Exploding On Reentry? Try Not Doing That! Not Doing That is easy: simply don't do it! Use our patented radial heat shields by Orion Space Industries. For Kerbal Space Program."
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-*
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/118875-*/
   
   # A comma-separated list of topics to set on the repository
   topics: radial,radialheatshield,heatshield,inflate,popup,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedK  
