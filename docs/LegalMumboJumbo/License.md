@@ -12,11 +12,10 @@ Radial Heat Shields (RHS)
 created: 01 Feb 2022
 updated: 20 Feb 2022 -->
 
-[Home](/index.md)
+[Home](./index.html)
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fab fa-github"></i>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
 
 # Radial Heat Shields (RHS)

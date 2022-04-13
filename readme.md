@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.6.1
+<!-- readme.md v1.6.6.2
 Radial Heat Shields (RHS)
 created: 01 Oct 2019
-updated: 22 Mar 2022 -->
+updated: 04 Apr 2022 -->
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
@@ -24,8 +24,8 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Clifton Marien aka CliftonM`][cliftonm]
 
 <div style="text-align:center"></br><img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HeroLogo_1920x1920.png" alt="Just Another Way to Return Home Today" width="50%" height="50%"></br></br>
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot38.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot40.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-2.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-3.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/Hero-5.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-01.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-02.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-03.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-04.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-06.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
 
 ### Partial Parts Invoice
 
@@ -72,22 +72,22 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^1]  
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Supports
 
-* [On Demand Fuel Cells (ODFC)][ODFC] [^2]  
-* [TweakScale][ts]
+* [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
+* [TweakScale][twk]
 
 ### Tags
 
@@ -103,6 +103,7 @@ parts, flags, agency
 ### Credits and Special Thanks
 
 * [Clifton Marien aka CliftonM][cliftonm] for creating this glorious add-on!
+* see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
@@ -116,7 +117,7 @@ parts, flags, agency
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-#### Original (0) - Author: [`Clifton Marien aka CliftonM`][cliftonm]
+#### Original (0) - Author: [`CliftonM aka Clifton Marien`][cliftonm]
 
 > [Thread][MOD:0:thread] - Download: [Internet Archive][MOD:0:download] - Source: [GitHub][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License Logo][LIC:0:log]
@@ -175,14 +176,14 @@ parts, flags, agency
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
-<!-- links to add-ons/mods -->  
-
 [mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[ts]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 
-<!-- static links-->
+[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
@@ -208,10 +209,19 @@ parts, flags, agency
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"
+[^1]: this isn't a mod. ;P
+[^2]: ***may*** work on other versions (YMMV)
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 
-<!-- footnotes -->
-[^1]: ***may*** work on other versions (YMMV)
-[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-[^3]: this isn't a mod. ;P
+---
+
+## Track progress
+
+### issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/Radial Heat Shields/projects/)
+
+**[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+<div style="border:0.5px solid #BADA55; background-color: #FFFFFF; color: #FF0000; text-align:center"></br>
+<a href = "https://twitter.com/zer0Kerbal"><img src = "https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
+<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
+  <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
