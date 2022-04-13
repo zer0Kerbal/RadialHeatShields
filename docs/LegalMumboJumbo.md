@@ -7,8 +7,8 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-LegalMumboJumbo.md v1.0.4.0
-RadialHeatShields (RHS)
+LegalMumboJumbo.md v1.0.4.1
+Radial Heat Shields (RHS)
 created: 01 Feb 2022
 updated: 27 Mar 2022
 -->
@@ -21,7 +21,7 @@ updated: 27 Mar 2022
 [Home](/index.md)
 
 * License
-  * ![License](./LegalMumboJumbo/License.md)
+  * ![License](./LegalMumboJumbo/License.html)
 * Forums
   * ![Forum](./LegalMumboJumbo/FORUM-01.png)
   <!-- * ![Forum](./LegalMumboJumbo/FORUM-02.png) -->
