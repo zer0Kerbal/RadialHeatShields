@@ -30,11 +30,12 @@ updated: 27 Mar 2022
 
 ### Flag
 
-* [`Clifton Marien aka CliftonM`][cliftonm]
+* <a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > CliftonM</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"></a>
 
 ### Agency
 
-* [`Clifton Marien aka CliftonM`][cliftonm]
+
+* <a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > CliftonM</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"></a>
 
 ### Special Thanks
 
