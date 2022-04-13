@@ -23,7 +23,7 @@ updated: 27 Mar 2022
 ### Credits
 
 <ul>
- <li><a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > cliftonm</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"> Radial Heat Shields(RHS)</a></li>
+ <li><a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > CliftonM</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"> Radial Heat Shields(RHS)</a></li>
 <li><b>Thanks to everyone who gave feedback! It's very important for me and highly appreciated.</b></li>
 </ul>
 
@@ -55,7 +55,7 @@ updated: 27 Mar 2022
 [RHS]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/ "Radial Heat Shields"
 
 [cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"  
-<!-- [cliftonm]: https://forum.kerbalspaceprogram.com/index.php?/profile/140061-*/ "CliftonM aka Clifton Marien" -->
+<!-- [cliftonm]: https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm*/ "CliftonM aka Clifton Marien" -->
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"  
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 
