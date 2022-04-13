@@ -18,7 +18,7 @@ updated: 12 Apr 2022
 
 # Radial Heat Shields (RHS)
 
-[Home](/index.html)
+[Home](./index.html)
 
 * [License](./LegalMumboJumbo/License.md)
 * Forums
