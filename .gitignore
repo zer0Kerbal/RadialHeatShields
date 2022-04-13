@@ -1,6 +1,6 @@
-﻿# .gitignore v2.0.5.0
-# created:
-# updated: 15 Mar 2022
+﻿# .gitignore v2.0.6.1
+# created: 01 01 2013
+# updated: 11 Apr 2022
 # by zer0kerbal
 
 # 2.0.3.0 - add *.2do
@@ -8,6 +8,11 @@
 #   add *.psd
 #   remove .csproj
 #   remove .sln
+# 2.0.5.0
+#   OneCommander note file
+*   .2do
+# 2.0.6.0
+#    change `_*` to `__*`
 
 # Prerequisites
 *.d
@@ -59,7 +64,7 @@
 *.psd
 
 # zer0Kerbal common files
-regex4loc.txt
+# __*
 _*
 
 # database files
@@ -71,6 +76,7 @@ _*
 
 # visualStudio files
 .vs/*
+*.code-workspace
 *.ide-wal
 *.suo
 build/*
@@ -165,4 +171,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 graphics/Thumbs.db
 *.old
+
+# OneCommander note file
 *.2do
+drfolder-*
+desktop.ini
