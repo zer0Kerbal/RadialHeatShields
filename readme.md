@@ -25,7 +25,7 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 
 <div style="text-align:center"></br><img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HeroLogo_1920x1920.png" alt="Just Another Way to Return Home Today" width="50%" height="50%"></br></br>
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/screenshot37.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-01.png" alt="Just Another Way to Return Home Today" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-02.png" alt="Just Another Way to Return Home Today" width="25%" height="25%">
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-03.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-04.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-05.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-03.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-04.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HERO-06.png" alt="Radial Heat Shields (RHS)" width="25%" height="25%"></br></br></div>
 
 ### Partial Parts Invoice
 
@@ -72,22 +72,22 @@ Not Doing That is easy: simply don't do it! Use our patented radial heat shields
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^1]  
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Supports
 
-* [On Demand Fuel Cells (ODFC)][ODFC] [^2]  
-* [TweakScale][ts]
+* [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
+* [TweakScale][twk]
 
 ### Tags
 
@@ -103,6 +103,7 @@ parts, flags, agency
 ### Credits and Special Thanks
 
 * [Clifton Marien aka CliftonM][cliftonm] for creating this glorious add-on!
+* see [Attribution.md][MOD:attr] for comprehensive list
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
@@ -178,7 +179,7 @@ parts, flags, agency
 <!-- links to add-ons/mods -->  
 
 [mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[ts]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 
