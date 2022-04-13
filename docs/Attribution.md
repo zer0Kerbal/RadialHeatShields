@@ -27,7 +27,6 @@ updated: 27 Mar 2022
 <li><b>Thanks to everyone who gave feedback! It's very important for me and highly appreciated.</b></li>
 </ul>
 
-
 ### Flag
 
 * <a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > CliftonM</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"></a>
@@ -40,7 +39,6 @@ updated: 27 Mar 2022
 ### Special Thanks
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/68543-blizzy78/"><img border="0" alt="Blizzy78" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-68543.png" width="50" height="50" > Blizzy78</a>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
@@ -53,11 +51,11 @@ updated: 27 Mar 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
 
-[RHS]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/ "Radial Heat Shields"
+<!-- [RHS]: https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/ "Radial Heat Shields"
 
-[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"  
+[cliftonm]: https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "CliftonM aka Clifton Marien"   -->
 <!-- [cliftonm]: https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm*/ "CliftonM aka Clifton Marien" -->
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"  
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
+<!-- [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"  
+[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard" -->
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
