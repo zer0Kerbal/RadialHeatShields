@@ -6,14 +6,16 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.1.0
+<!-- ManualInstallation.md v1.1.5.0
 Radial Heat Shields (RHS)
 created: 01 Oct 2019
-updated: 27 Mar 2022 -->
+updated: 11 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
 # Radial Heat Shields (RHS)
+
+[Home](./index.md)
 
 Tired of blowing up? Use Radial Heat Shields by Orion Space Industries. For Kerbal Space Program.
 
@@ -25,12 +27,12 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the OrionSpaceIndustries folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/RadialHeatShields`
-* Extract the package's `RadialHeatShields/` folder into your KSP's as follows:
-  * `<PACKAGE>/SimpleConstruction` --> `<KSP_ROOT>/GameData/RadialHeatShields`
+  * Delete `<KSP_ROOT>/GameData/OrionSpaceIndustries/RadialHeatShields`
+* Extract the package's `OrionSpaceIndustries/` folder into your KSP's GameData as follows:
+  * `<PACKAGE>/OrionSpaceIndustries` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting file.
 
 ### If Downloaded from SpaceDock / GitHub / other
@@ -38,38 +40,38 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/RadialHeatShields`
-* Extract the package's `GameData/RadialHeatShields` folder into your KSP's as follows:
-  * `<PACKAGE>/GameData/RadialHeatShields` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/OrionSpaceIndustries/RadialHeatShields`
+* Extract the package's `GameData/OrionSpaceIndustries` folder into your KSP's root folder as follows:
+  * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
 
 ## The following file layout must be present after installation
 
-```
+```markdown
 <KSP_ROOT>
-  [GameData]
-    [RadialHeatShields]
-      [Agencies]
+  + [GameData]
+    + [RadialHeatShields]
+      + [Agencies]
         ...
-      [Assets]
+      + [Assets]
         ...
-      [Compatibility]
+      + [Compatibility]
         ...
-      [Flags]
+      + [Flags]
         ...
-      [Localization]
+      + [Localization]
         ...
-      [Parts]
+      + [Parts]
         ...
-      [Plugins]
+      + [Plugins]
         ...
-      0.9.99.0.htm
-      CC-BY-SA-4.0.txt
-      changelog.md
-      readme.htm
-      RadialHeatShields.version
+      * 0.9.99.0.htm
+      * CC-BY-SA-4.0.txt
+      * changelog.md
+      * readme.htm
+      * RadialHeatShields.version
     ...
-  KSP.log
+  * KSP.log
   ...
 ```
 
