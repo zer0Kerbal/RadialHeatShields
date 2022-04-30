@@ -78,10 +78,10 @@ updated: 05 Mar 2022 -->
   * #29 - Thumbs
   * #30 - Part localization
   * #23 - Hawai'ian
-
 * #23 - Hawai'ian
 
 ---
+
 ## Version 1.0.0.0-CF
 
 * updated for CurseForge
