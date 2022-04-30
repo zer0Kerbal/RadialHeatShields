@@ -1,15 +1,15 @@
 ---
 permalink: /ManualInstallation.html
-title: ManualInstallation
+title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 # layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.5.0
+<!-- ManualInstallation.md v1.1.7.0
 Radial Heat Shields (RHS)
 created: 01 Oct 2019
-updated: 11 Apr 2022 -->
+updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
@@ -34,6 +34,7 @@ To install, place the OrionSpaceIndustries folder inside your Kerbal Space Progr
 * Extract the package's `OrionSpaceIndustries/` folder into your KSP's GameData as follows:
   * `<PACKAGE>/OrionSpaceIndustries` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/OrionSpaceIndustries/RadialHeatShields`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
@@ -41,35 +42,36 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
   * Delete `<KSP_ROOT>/GameData/OrionSpaceIndustries/RadialHeatShields`
-* Extract the package's `GameData/OrionSpaceIndustries` folder into your KSP's root folder as follows:
+* Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/OrionSpaceIndustries/RadialHeatShields`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [RadialHeatShields]
-      + [Agencies]
-        ...
-      + [Assets]
-        ...
-      + [Compatibility]
-        ...
-      + [Flags]
-        ...
-      + [Localization]
-        ...
-      + [Parts]
-        ...
-      + [Plugins]
-        ...
-      * 0.9.99.0.htm
-      * CC-BY-SA-4.0.txt
-      * changelog.md
-      * readme.htm
-      * RadialHeatShields.version
+    + [OrionSpaceIndustries]
+      + [RadialHeatShields]
+        + [Agencies]
+          ...
+        + [Assets]
+          ...
+        + [Compatibility]
+          ...
+        + [Flags]
+          ...
+        + [Localization]
+          ...
+        + [Parts]
+          ...
+        * 0.9.99.0.htm
+        * CC-BY-SA-4.0.txt
+        * changelog.md
+        * readme.htm
+        * RadialHeatShields.version
+      ...
     ...
   * KSP.log
   ...
