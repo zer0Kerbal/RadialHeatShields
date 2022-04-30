@@ -53,7 +53,8 @@ updated: 05 Mar 2022 -->
 ### Add
 
 * part thumbnail images
-* closes #26
+* closes #26 - Thumbs
+* docs/
 
 ### Localization
 
@@ -69,6 +70,14 @@ updated: 05 Mar 2022 -->
 ### Status
 
 * Issues
+  * closes #7 - American English <us-en.cfg>
+  * closes #3 - 1.0.99.0 Verify Legal Mumbo Jumbo
+  * closes #4 - 1.0.99.0 Update Documentation
+  * closes #5 - 1.0.99.0 Social Media
+* Pull Requests
+  * #29 - Thumbs
+  * #30 - Part localization
+  * #23 - Hawai'ian
 
 * #23 - Hawai'ian
 
