@@ -73,3 +73,72 @@ updated: 05 Mar 2022 -->
 * #23 - Hawai'ian
 
 ---
+## Version 1.0.0.0-CF
+
+* updated for CurseForge
+
+---
+
+## Version 1.0.0.0b
+
+* .version file corrected, again
+
+---
+
+## Version 1.0.0.0a
+
+* .version file corrected, again
+
+---
+
+## Version 1.0.0.0-beta
+
+---
+
+## Version 1.0.0.0
+
+---
+
+## Version 0.9.0.0
+
+---
+
+## Version 0.9.1.2
+
+---
+
+## Version 0.9.1.3
+
+---
+
+## Version 0.9.1.4.1
+
+---
+
+## Version 0.9.1.4
+
+---
+
+## Version 0.8.7.0
+
+---
+
+## Version 0.8.9.2
+
+---
+
+## Version 0.8.9.0
+
+---
+
+## Version 0.4.6.0
+
+---
+
+## Version 0.4.7.0
+
+---
+
+## Version 0.4.5.0
+
+---
