@@ -34,5 +34,8 @@ updated: 05 Mar 2022
     * [quickstart.md]
 * closes #7
 * updates #6
+
+closes American English <us-en.cfg> #7
+updates Localization - Master #6
   
 * #23 - Hawai'ian(??lelo P?k?) &lt;ha.cfg&gt;
