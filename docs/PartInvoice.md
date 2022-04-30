@@ -38,21 +38,28 @@ This add-on adds twenty-one (21) thermal parts
   * [rhs-angular-100.cfg]
   * [rhs-angular-200.cfg]
   * [rhs-angular-025.cfg]
+
   <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-circular-250_icon.png" alt="Circular" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-rectangular-200_icon.png" alt="Rectangular" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-square-200_icon.png" alt="Square" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-angular-025_icon.png" alt="Angular" width="25%" height="25%" /> 
+
 * Popup
   * [rhs-popup-0625.cfg]
   * [rhs-popup-125.cfg]
   * [rhs-popup-1875.cfg]
   * [rhs-popup-250.cfg]
   * [rhs-popup-375.cfg]
-    <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-popup-250_icon.png" alt="Popup" width="25%" height="25%" /> 
+
+    <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-popup-250_icon.png" alt="Popup" width="25%" height="25%" />
+
 * Tile
   * [rhs-tile.cfg]
   * [rhs-tile-black.cfg]
   * [rhs-tile-white.cfg]
+
   <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-tile_icon.png" alt="Cube" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-tile-black_icon.png" alt="Tile: Black" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-tile-white_icon.png" alt="Tile: White" width="25%" height="25%" /> 
+
 * Probe
   * [rhs-probe-1875.cfg]
+
   <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/GameData/OrionSpaceIndustries/RadialHeatShields/Parts/%40thumbs/rhs-probe-1875_icon.png" alt="Probe" width="25%" height="25%" /> 
 
 ---
