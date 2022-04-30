@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.6.5
+<!-- readme.md v1.6.7.0
 Radial Heat Shields (RHS)
 created: 01 Oct 2019
-updated: 24 Apr 2022 -->
+updated: 29 Apr 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
