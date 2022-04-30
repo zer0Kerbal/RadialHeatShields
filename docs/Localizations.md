@@ -9,7 +9,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 <!-- Localizations.md v1.1.3.1
 Radial Heat Shields (RHS)
 created: 01 Feb 2022
-updated: 27 Mar 2022 -->
+updated: 30 Mar 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
@@ -18,9 +18,9 @@ updated: 27 Mar 2022 -->
 
 [Home](./index.md)
 
-* ![English][EN] English <us-en.cfg>  
-
 has been translated into the following languages:
+
+* ![English][EN] English <us-en.cfg>  
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -65,4 +65,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->

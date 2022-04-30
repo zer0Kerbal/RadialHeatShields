@@ -14,9 +14,9 @@ updated: 27 Mar 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 # Radial Heat Shields (RHS)
-[Home](./index.html)
+[Home](./index.md)
 
 ## Attribution
 
@@ -32,7 +32,6 @@ updated: 27 Mar 2022
 * <a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > CliftonM</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"></a>
 
 ### Agency
-
 
 * <a href="https://web.archive.org/web/20190712144347/https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/ "><img border="0" alt="cliftonm" src="https://web.archive.org/web/20190712144347im_/https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_01_2016/forum1.gif.17f06fc728ff679daf7b08972aa3759c.thumb.gif.fc16ba2586bc71d40655e28e8dfba811.gif" width="50" height="50" > CliftonM</a> for <a href="https://forum.kerbalspaceprogram.com/threads/207080-*/"></a>
 
@@ -60,4 +59,4 @@ updated: 27 Mar 2022
 <!-- [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"  
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard" -->
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
