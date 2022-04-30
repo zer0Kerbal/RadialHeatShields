@@ -20,4 +20,19 @@ updated: 05 Mar 2022
 
 ## Version 1.0.99.0 - for KSP 1.12.3 [28-Mar-2022]
 
+# Add
+
+* part thumbnail images
+* closes #26
+
+# Localization
+
+* Add
+  * <en-us.cfg>
+  * Localization/
+    * [readme.md]
+    * [quickstart.md]
+* closes #7
+* updates #6
+  
 * #23 - Hawai'ian(??lelo P?k?) &lt;ha.cfg&gt;
